@@ -1,25 +1,34 @@
-# banking-network
+# 🏦 Banking Network Simulation – Cisco Packet Tracer  
 
-What This Covers
-✅ Full enterprise-level network configuration
-✅ Router and switch setup for optimal performance
-✅ Inter-network communication strategies
-✅ Access point and server configurations
-✅ Troubleshooting Cisco Packet Tracer’s... quirks 💀
+## 📌 Overview  
+This project simulates a **banking network** in **Cisco Packet Tracer**, designed to demonstrate real-world enterprise networking.  
 
-Technical Skills Demonstrated
-Layer 2 & Layer 3 Networking: VLANs, trunking, static routing, and OSPF
-Enterprise-Level Network Design: Optimizing scalability, redundancy, and efficiency
-Security Best Practices: Access control lists (ACLs), SSH configurations, and port security
-Wireless Networking: Configuring SSIDs, access points, and encryption
-Server Management: DHCP, DNS, and email server configurations
+### 🌐 Features  
+✅ **Full enterprise-level network configuration**  
+✅ **Router and switch setup** for optimal performance  
+✅ **Inter-network communication strategies**  
+✅ **Access point and server configurations** (DHCP, DNS, email)  
+✅ **Troubleshooting Cisco Packet Tracer’s quirks** 💀  
 
-Known Issues & Fixes
-❌ Issue: Packet Not Transferring Between VLANs
-✔️ Fix: Enable routing (ip routing) on the router and ensure trunking is correctly configured.
+## 🛠 Technical Skills Demonstrated  
+### 🏗 Layer 2 & Layer 3 Networking  
+- VLANs, trunking, static routing, and **OSPF**  
+### 🏢 Enterprise-Level Network Design  
+- **Scalability, redundancy, and efficiency** optimization  
+### 🔒 Security Best Practices  
+- **Access control lists (ACLs), SSH, and port security**  
+### 📡 Wireless Networking  
+- **Configuring SSIDs, access points, and encryption**  
+### 🖥 Server Management  
+- **DHCP, DNS, and email server configurations**  
 
-❌ Issue: Switch Doesn’t Recognize VLAN Interfaces
-✔️ Fix: Use no shutdown on VLAN interfaces.
+## 🔧 Known Issues & Fixes  
+❌ **Issue:** Packet not transferring between VLANs  
+✔️ **Fix:** Enable **IP routing** on the router and check **trunking configurations**  
 
-❌ Issue: Cisco Packet Tracer Freezes When Moving Mouse
-✔️ Fix: There is no fix. Suffer. 💀
+❌ **Issue:** Switch doesn’t recognize VLAN interfaces  
+✔️ **Fix:** Use `no shutdown` on VLAN interfaces  
+
+❌ **Issue:** Cisco Packet Tracer freezes when moving the mouse  
+✔️ **Fix:** There is no fix. **Suffer.** 💀  
+
